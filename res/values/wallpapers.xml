@@ -31,6 +31,9 @@
         <item>light_bursting_out</item>
         <item>bladesplusdroplets</item>
         <item>decay</item>
+		<item>FoxPapersBlue</item>
+		<item>FoxPapersCyan</item>
+		<item>FoxPapersRed</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -49,5 +52,8 @@
         <item>Light Bursting Out - Matthew Hanley</item>
         <item>Blades of Glory - Henry Mason</item>
         <item>Decay - Henry Mason</item>
+		<item>FoxPapersBlue - FoxTeam</item>
+		<item>FoxPapersCyan - FoxTeam</item>
+		<item>FoxPapersRed - FoxTeam</item>		
     </string-array>
 </resources>
